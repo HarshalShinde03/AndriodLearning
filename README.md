@@ -1,4 +1,4 @@
-# AndriodLearning App
+# AndroidLearning App
 
 This is Specific Android Learning Mobile Application
 for Begginer level Android Learner.
